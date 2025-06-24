@@ -1,1 +1,1 @@
-// app 2
+// This is the admin side application
